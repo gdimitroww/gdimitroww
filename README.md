@@ -1,9 +1,25 @@
-# Hi there, I'm George Dimitrov
+# Hi there, I'm George Dimitrov 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/gdimitroww?label=Follow&style=social)](https://github.com/gdimitroww)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-dimitrov-112476340/)
 
-## About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gdimitroww&style=flat-square&color=blue" alt=""/>
+</div>
+
+## 👨‍💻 About Me
+
+```javascript
+const george = {
+    code: ["C#", ".NET", "Avalonia UI"],
+    currentFocus: "Building Cross-Platform Applications",
+    funFact: "I turn ☕ into <code/>"
+};
+```
 
 I'm a passionate software developer with a focus on creating efficient and innovative solutions. Currently working on exciting projects that combine modern technologies to solve real-world problems.
 
@@ -13,21 +29,37 @@ I'm a passionate software developer with a focus on creating efficient and innov
 - Exploring new technologies and frameworks
 - Looking to collaborate on open-source projects
 
-### Technologies & Tools
+### 🛠️ Technologies & Tools
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+<div align="center">
+  
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### GitHub Stats
+</div>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gdimitroww&show_icons=true&theme=dracula)
+### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdimitroww&layout=compact&theme=dracula)](https://github.com/gdimitroww)
+<div align="center">
+  
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdimitroww&show_icons=true&theme=radical)
 
-### Featured Projects
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gdimitroww&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdimitroww&layout=compact&theme=radical)](https://github.com/gdimitroww)
+
+</div>
+
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/gdimitroww/CryptoTrackerApplication">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdimitroww&repo=CryptoTrackerApplication&theme=radical" />
+  </a>
+</div>
 
 #### CryptoTracker
 - A desktop application built with C# and Avalonia UI
@@ -37,9 +69,16 @@ I'm a passionate software developer with a focus on creating efficient and innov
 
 ### 📫 How to Reach Me
 
-- GitHub: [@gdimitroww](https://github.com/gdimitroww)
-- LinkedIn:(https://www.linkedin.com/in/georgi-dimitrov-112476340/)
-- Email: kasparlol123456@gmail.com
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/gdimitroww)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-dimitrov-112476340/)
+
+</div>
 
 ---
-From [gdimitroww](https://github.com/gdimitroww)
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+⭐️ From [gdimitroww](https://github.com/gdimitroww)
+</div>
