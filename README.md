@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=gdimitroww&style=flat-square&color=blue" alt=""/>
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate software developer with a focus on creating efficient and innovative solutions. Currently working on exciting projects that combine modern technologies to solve real-world problems.
 
@@ -37,13 +37,13 @@ I'm a passionate software developer with a focus on creating efficient and innov
 ```
 </details>
 
-### 🚀 What I'm Currently Working On
+### What I'm Currently Working On
 
-- 🔭 [CryptoTracker](https://github.com/gdimitroww/CryptoTrackerApplication) - A desktop application for real-time cryptocurrency price tracking
-- 🌱 Exploring new technologies and frameworks
-- 👯 Looking to collaborate on open-source projects
+-  [CryptoTracker](https://github.com/gdimitroww/CryptoTrackerApplication) - A desktop application for real-time cryptocurrency price tracking
+-  Exploring new technologies and frameworks
+-  Looking to collaborate on open-source projects
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 <div align="center">
   
@@ -55,7 +55,7 @@ I'm a passionate software developer with a focus on creating efficient and innov
 
 </div>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   
@@ -67,7 +67,7 @@ I'm a passionate software developer with a focus on creating efficient and innov
 
 </div>
 
-### 🌟 Featured Projects
+### Featured Projects
 
 <div align="center">
   <a href="https://github.com/gdimitroww/CryptoTrackerApplication">
@@ -79,5 +79,5 @@ I'm a passionate software developer with a focus on creating efficient and innov
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-⭐️ From [gdimitroww](https://github.com/gdimitroww)
+From [gdimitroww](https://github.com/gdimitroww)
 </div>
