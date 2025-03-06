@@ -25,7 +25,7 @@ I'm a passionate software developer with a focus on creating efficient and innov
 {
     "name": "George Dimitrov",
     "location": "Bulgaria",
-    "code": ["C#", ".NET", "Avalonia UI"],
+    "code": ["C#", ".NET", "Avalonia UI", "HTML", "CSS", "JavaScript"],
     "currentFocus": "Building Cross-Platform Applications",
     "funFact": "I turn ☕ into <code/>",
     "hobbies": [
@@ -40,7 +40,41 @@ I'm a passionate software developer with a focus on creating efficient and innov
 ### What I'm Currently Working On
 
 -  [CryptoTracker](https://github.com/gdimitroww/CryptoTrackerApplication) - A desktop application for real-time cryptocurrency price tracking
--  [TaskManagementSystem](https://github.com/gdimitroww/TaskManagementSystem) - A web application for easire TaskManagemnt
+-  [TaskManagementSystem](https://github.com/gdimitroww/TaskManagementSystem) - A web application for easier Task Management
+
+### Most Used Languages
+<div align="center">
+  <table>
+    <tr>
+      <td>C#</td>
+      <td>
+        <div style="background-color:#239120; width:100%; height:20px; border-radius:5px;"></div>
+        85%
+      </td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>
+        <div style="background-color:#E34F26; width:40%; height:20px; border-radius:5px;"></div>
+        8%
+      </td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>
+        <div style="background-color:#1572B6; width:25%; height:20px; border-radius:5px;"></div>
+        5%
+      </td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>
+        <div style="background-color:#F7DF1E; width:10%; height:20px; border-radius:5px;"></div>
+        2%
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###  Technologies & Tools
 
@@ -48,6 +82,9 @@ I'm a passionate software developer with a focus on creating efficient and innov
   
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -62,8 +99,6 @@ I'm a passionate software developer with a focus on creating efficient and innov
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gdimitroww&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdimitroww&layout=compact&theme=radical)](https://github.com/gdimitroww)
-
 </div>
 
 ### Featured Projects
@@ -72,6 +107,9 @@ I'm a passionate software developer with a focus on creating efficient and innov
   <a href="https://github.com/gdimitroww/CryptoTrackerApplication">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdimitroww&repo=CryptoTrackerApplication&theme=radical" />
   </a>
+  <a href="https://github.com/gdimitroww/TaskManagementSystem">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdimitroww&repo=TaskManagementSystem&theme=radical" />
+  </a>
 </div>
 
 ---
@@ -79,4 +117,4 @@ I'm a passionate software developer with a focus on creating efficient and innov
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 From [gdimitroww](https://github.com/gdimitroww)
-</div>
+</div> 
