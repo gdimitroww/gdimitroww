@@ -41,7 +41,6 @@ I'm a passionate software developer with a focus on creating efficient and innov
 
 -  [CryptoTracker](https://github.com/gdimitroww/CryptoTrackerApplication) - A desktop application for real-time cryptocurrency price tracking
 -  [TaskManagementSystem](https://github.com/gdimitroww/TaskManagementSystem) - A web application for easire TaskManagemnt
--  Looking to collaborate on open-source projects
 
 ###  Technologies & Tools
 
