@@ -43,37 +43,14 @@ I'm a passionate software developer with a focus on creating efficient and innov
 -  [TaskManagementSystem](https://github.com/gdimitroww/TaskManagementSystem) - A web application for easier Task Management
 
 ### Most Used Languages
+
 <div align="center">
-  <table>
-    <tr>
-      <td>C#</td>
-      <td>
-        <div style="background-color:#239120; width:100%; height:20px; border-radius:5px;"></div>
-        85%
-      </td>
-    </tr>
-    <tr>
-      <td>HTML</td>
-      <td>
-        <div style="background-color:#E34F26; width:40%; height:20px; border-radius:5px;"></div>
-        8%
-      </td>
-    </tr>
-    <tr>
-      <td>CSS</td>
-      <td>
-        <div style="background-color:#1572B6; width:25%; height:20px; border-radius:5px;"></div>
-        5%
-      </td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>
-        <div style="background-color:#F7DF1E; width:10%; height:20px; border-radius:5px;"></div>
-        2%
-      </td>
-    </tr>
-  </table>
+  
+![C#](https://img.shields.io/badge/C%23-85%25-239120?style=for-the-badge&labelColor=black&color=239120)
+![HTML](https://img.shields.io/badge/HTML-8%25-E34F26?style=for-the-badge&labelColor=black&color=E34F26)
+![CSS](https://img.shields.io/badge/CSS-5%25-1572B6?style=for-the-badge&labelColor=black&color=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-2%25-F7DF1E?style=for-the-badge&labelColor=black&color=F7DF1E)
+
 </div>
 
 ###  Technologies & Tools
@@ -117,4 +94,4 @@ I'm a passionate software developer with a focus on creating efficient and innov
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 From [gdimitroww](https://github.com/gdimitroww)
-</div> 
+</div>
