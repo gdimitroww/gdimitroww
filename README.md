@@ -75,8 +75,7 @@ I'm a passionate software developer with a focus on creating efficient and innov
   
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdimitroww&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gdimitroww&theme=radical)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gdimitroww&theme=dark)](https://git.io/streak-stats)
 </div>
 
 ### Featured Projects
