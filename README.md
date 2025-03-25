@@ -88,7 +88,7 @@ I'm a passionate software developer with a focus on creating efficient and innov
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdimitroww&repo=TaskManagementSystem&theme=radical" />
   </a>
   <a href="https://github.com/gdimitroww/WetherApp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdimitroww&repo=WeatherApp&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdimitroww&repo=WetherApp&theme=radical"/>
   </a>
 </div>
 
