@@ -25,13 +25,14 @@ I'm a passionate software developer with a focus on creating efficient and innov
 {
     "name": "George Dimitrov",
     "location": "Bulgaria",
-    "code": ["C#", ".NET", "Avalonia UI", "HTML", "CSS", "JavaScript"],
-    "currentFocus": "Building Cross-Platform Applications",
+    "code": ["C#", ".NET", "ASP.NET Core", "Entity Framework", "Avalonia UI", "HTML", "CSS", "JavaScript", "Docker"],
+    "currentFocus": "Building Cross-Platform Applications & Heritage Tourism Solutions",
     "funFact": "I turn ☕ into <code/>",
     "hobbies": [
         "Coding",
         "Problem Solving",
-        "Learning New Tech"
+        "Learning New Tech",
+        "Cultural Heritage Preservation"
     ]
 }
 ```
@@ -39,6 +40,7 @@ I'm a passionate software developer with a focus on creating efficient and innov
 
 ### Done Projects 
 
+-  [BulgarianHeritage](https://github.com/gdimitroww/BulgarianHeritage) - A comprehensive web application for exploring Bulgaria's rich cultural heritage with interactive maps, virtual tours, and user contributions
 -  [CryptoTracker](https://github.com/gdimitroww/CryptoTrackerApplication) - A desktop application for real-time cryptocurrency price tracking
 -  [TaskManagementSystem](https://github.com/gdimitroww/TaskManagementSystem) - A web application for easier Task Management
 -  [WeatherWebApp](https://github.com/gdimitroww/WetherApp) - A web application for checking every country's Weather
@@ -60,9 +62,13 @@ I'm a passionate software developer with a focus on creating efficient and innov
   
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -81,6 +87,9 @@ I'm a passionate software developer with a focus on creating efficient and innov
 ### Featured Projects
 
 <div align="center">
+  <a href="https://github.com/gdimitroww/BulgarianHeritage">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdimitroww&repo=BulgarianHeritage&theme=radical" />
+  </a>
   <a href="https://github.com/gdimitroww/CryptoTrackerApplication">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdimitroww&repo=CryptoTrackerApplication&theme=radical" />
   </a>
@@ -97,4 +106,4 @@ I'm a passionate software developer with a focus on creating efficient and innov
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 From [gdimitroww](https://github.com/gdimitroww)
-</div>
+</div> 
