@@ -40,10 +40,10 @@ I'm a passionate software developer with a focus on creating efficient and innov
 
 ### Done Projects 
 
--  [BulgarianHeritage](https://github.com/gdimitroww/BulgarianHeritage) - A comprehensive web application for exploring Bulgaria's rich cultural heritage with interactive maps, virtual tours, and user contributions
--  [CryptoTracker](https://github.com/gdimitroww/CryptoTrackerApplication) - A desktop application for real-time cryptocurrency price tracking
--  [TaskManagementSystem](https://github.com/gdimitroww/TaskManagementSystem) - A web application for easier Task Management
--  [WeatherWebApp](https://github.com/gdimitroww/WetherApp) - A web application for checking every country's Weather
+-  [BulgarianHeritage](https://github.com/gdimitroww/BulgarianHeritage) - A comprehensive web application for exploring Bulgaria's rich cultural heritage with interactive maps, virtual tours, and user contributions using ASP.NET Core, Entity Framework, and Docker
+-  [CryptoTracker](https://github.com/gdimitroww/CryptoTrackerApplication) - A modern desktop application built with C# and Avalonia UI for real-time cryptocurrency price tracking, portfolio management, and market analysis with live data updates
+-  [TaskManagementSystem](https://github.com/gdimitroww/TaskManagementSystem) - A feature-rich web application developed with C# and .NET for efficient task management, project organization, team collaboration, and productivity tracking
+-  [WeatherWebApp](https://github.com/gdimitroww/WetherApp) - A responsive web application using HTML, CSS, and JavaScript that provides real-time weather information, forecasts, and climate data for countries worldwide with an intuitive user interface
 
 ### Most Used Languages
 
@@ -106,4 +106,4 @@ I'm a passionate software developer with a focus on creating efficient and innov
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
 From [gdimitroww](https://github.com/gdimitroww)
-</div> 
+</div>
